@@ -1,4 +1,4 @@
-# *EndoBench*: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis
+# **EndoBench**: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis
 
 <p align="center">
   <img src="./assets/logo.png" alt="" width="120" height="120">
@@ -8,7 +8,7 @@
 
 [🤖 **Homepage**](https://cuhk-aim-group.github.io/EndoBench.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/Saint-lsy/EndoBench) | [**📖 arXiv**]()
 
-[Shengyuan Liu](https://scholar.google.com/citations?user=ZveKOXkAAAAJ&hl=zh-CN)<sup>1*</sup> [Boyun Zheng](https://scholar.google.com/citations?user=ZveKOXkAAAAJ&hl=zh-CN)<sup>1*</sup> [Wenting Chen](https://o0t1ng0o.github.io/)<sup>2*</sup> [Zhihao Peng](https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/)<sup>1</sup> [Zhenfei Yin](https://yinzhenfei.github.io/)<sup>3</sup> [Jing Shao](https://amandajshao.github.io/)<sup>4</sup> Jiancong Hu<sup>5</sup> [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm)<sup>1✉</sup>
+[Shengyuan Liu](https://scholar.google.com/citations?user=zP6fRqcAAAAJ&hl=en)<sup>1*</sup> [Boyun Zheng](https://scholar.google.com/citations?user=ZveKOXkAAAAJ&hl=zh-CN)<sup>1*</sup> [Wenting Chen](https://o0t1ng0o.github.io/)<sup>2*</sup> [Zhihao Peng](https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/)<sup>1</sup> [Zhenfei Yin](https://yinzhenfei.github.io/)<sup>3</sup> [Jing Shao](https://amandajshao.github.io/)<sup>4</sup> Jiancong Hu<sup>5</sup> [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm)<sup>1✉</sup>
 
 
 <sup>1</sup>Chinese University of Hong Kong &emsp; <sup>2</sup>City University of Hong Kong &emsp; <sup>3</sup>University of Oxford &emsp; 
