@@ -48,7 +48,7 @@ python run.py --data EndoBench --model Your_model_name
 ```
 **Demo**: Qwen2.5-VL-7B-Instruct on EndoBench, Inference only
 ```bash
-python run.py --data GMAI-MMBench_VAL --model Qwen2.5-VL-7B-Instruct --mode infer
+python run.py --data EndoBench --model Qwen2.5-VL-7B-Instruct --mode infer
 ```
 
 We provide the Performance comparison across 4 major categories in EndoBench among existing MLLMs:
