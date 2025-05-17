@@ -37,7 +37,7 @@ We provide a comprehensive evaluation of the following MLLMs on **EndoBench**:
 
 Visit the [VLMEvalKit Quickstart Guide](https://github.com/open-compass/VLMEvalKit/blob/main/docs/en/get_started/Quickstart.md) for installation instructions. or you can run the following command for a quick start:
 ```bash
-git clone https://github.com/open-compass/VLMEvalKit.git
+git clone https://github.com/CUHK-AIM-Group/EndoBench.git
 cd VLMEvalKit
 pip install -e .
 ```
