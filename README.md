@@ -15,7 +15,7 @@
 
 <sup>4</sup>Shanghai AI Laboratory &emsp; <sup>5</sup>The Sixth Affiliated Hospital, Sun Yat-sen University &emsp;
 
-
+<sup>\*</sup> Equal Contributions. <sup>✉</sup> Corresponding Author. 
 
 This repository is the official implementation of the paper **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**.
 
@@ -73,9 +73,19 @@ Greatly appreciate the tremendous effort for the following projects!
 - [IntelliScope](https://github.com/ai4colonoscopy/IntelliScope)
 - [SurgicalVQA](https://github.com/lalithjets/Surgical_VQA)
 
-**Note**: This dataset is built based on multiple public datasets. The sources of these datasets have been clearly indicated in the paper. Users should abide by the relevant licenses and terms of use of the original datasets.
+**Note**: This dataset is built based on multiple public datasets. The sources of these datasets have been clearly indicated in the paper. Users should abide by the relevant licenses and terms of use of the original datasets: [Kvasir](https://datasets.simula.no/kvasir/), [HyperKvasir](https://datasets.simula.no/hyper-kvasir/), [Kvasir-Capsule](https://datasets.simula.no/kvasir-capsule/), [GastroVision](https://datasets.simula.no/gastrovision/), [KID](https://mdss.uth.gr/datasets/endoscopy/kid/), [WCEBleedGen](https://zenodo.org/records/7548320), [SEE-AI](https://www.kaggle.com/datasets/capsuleyolo/kyucapsule), [Kvasir-Seg](https://datasets.simula.no/kvasir-seg/), [CVC-ColonDB](https://www.kaggle.com/datasets/longvil/cvc-colondb), [ETIS-Larib](https://www.kaggle.com/datasets/nguyenvoquocduong/etis-laribpolypdb), [CVC-ClinicDB](https://www.kaggle.com/datasets/balraj98/cvcclinicdb), [CVC-300](https://www.kaggle.com/datasets/nourabentaher/cvc-300), [EDD2020](https://datasetninja.com/edd2020), [SUN-Database](http://amed8k.sundatabase.org/), [LDPolypVideo](https://github.com/dashishi/LDPolypVideo-Benchmark), [PolypGen](https://github.com/DebeshJha/PolypGen), [Cholec80](https://universe.roboflow.com/daad-mobility/cholec80), [EndoVis-17](https://github.com/duggalrahul/MICCAI17_EndoVis_RoboSeg), [EndoVis-18](https://opencas.dkfz.de/endovis/challenges/2018/), and [PSI-AVA](https://github.com/BCV-Uniandes/TAPIR).
 
-Greatly appreciate to all the authors of these datasets for their contributions to the field of endoscopy analysis.
+Greatly appreciate all the authors of these datasets for their contributions to the field of endoscopy analysis.
 
 ## 📜Citation
-If you find this work helpful for your project,please consider citing our  paper.
+If you find this work helpful for your project, please consider citing our paper.
+```
+@article{liu2025endobench,
+  author={Shengyuan Liu and Boyun Zheng and Wenting Chen and Zhihao Peng and Zhenfei Yin and Jing Shao and Jiancong Hu and Yixuan Yuan},
+  title={A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis},
+  journal={arXiv preprint arXiv:2505.23601},
+  year={2025}
+}
+```
+
+
