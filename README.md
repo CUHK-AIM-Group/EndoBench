@@ -1,4 +1,4 @@
-# **EndoBench**: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis
+# **EndoBench**: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis (NeurIPS’25 D&B)
 
 <p align="center">
   <img src="./assets/logo.png" alt="" width="120" height="120">
@@ -18,6 +18,10 @@
 <sup>\*</sup> Equal Contributions. <sup>✉</sup> Corresponding Author. 
 
 This repository is the official implementation of the paper **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**.
+
+## ✨ News
+- [19/09/2025] 🎉🎉Our EndoBench was accepted by NeurIPS'25 D&B Track!!!
+- [29/05/2025] The manuscript can be found on [arXiv](https://arxiv.org/abs/2505.23601).
 
 ## 🚀Overview
 
