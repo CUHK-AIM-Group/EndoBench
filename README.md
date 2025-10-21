@@ -20,6 +20,7 @@
 This repository is the official implementation of the paper **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**.
 
 ## ✨ News
+- [21/10/2025] We release a new open-set challenging VQA benchmark, [EndoBench-extended](https://huggingface.co/datasets/Saint-lsy/EndoBench-Extended).
 - [19/09/2025] 🎉🎉Our EndoBench was accepted by NeurIPS'25 D&B Track!!!
 - [29/05/2025] The manuscript can be found on [arXiv](https://arxiv.org/abs/2505.23601).
 
@@ -32,6 +33,9 @@ In this paper, we introduce **EndoBench**, the first comprehensive benchmark spe
 **EndoBench** establishes a new standard for evaluating and advancing MLLMs in endoscopy, highlighting both progress and persistent gaps between current models and expert clinical reasoning.
  
 ![overview](assets/figure1.jpg)
+
+## 🏥 EndoBench-Extended
+The [EndoBench-extended](https://huggingface.co/datasets/Saint-lsy/EndoBench-Extended) dataset is the extended version of Endobench, which includes 48 images and 91 open-set VQA pairs, carefully selected by medical experts to ensure clinical relevance and diagnostic difficulty.  The EndoBench-extended specifically focuses on challenging and underrepresented cases, including rare pathologies, overlapping lesions, atypical anatomical presentations, and post-surgical endoscopic views.
 
 ## 📦Evaluation
 
