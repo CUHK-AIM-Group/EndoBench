@@ -20,7 +20,7 @@
 This repository is the official implementation of the paper **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**.
 
 ## ✨ News
-- [03/2026] We release the **EndoVQA-Instruct** Dataset at [here](https://huggingface.co/datasets/Saint-lsy/EndoVQA-Instruct).
+- [01/03/2026] We release the **EndoVQA-Instruct** Dataset at [here](https://huggingface.co/datasets/Saint-lsy/EndoVQA-Instruct).
 - [21/10/2025] We release a new open-set challenging VQA benchmark, [EndoBench-extended](https://huggingface.co/datasets/Saint-lsy/EndoBench-Extended).
 - [19/09/2025] 🎉🎉Our EndoBench was accepted by NeurIPS'25 D&B Track!!!
 - [29/05/2025] The manuscript can be found on [arXiv](https://arxiv.org/abs/2505.23601).
